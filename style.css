@@ -1,0 +1,19 @@
+#headerText{
+    color: #fff;
+    justify-content: center;
+    font-size: large;
+}
+
+.container{
+    background-color: rgb(187, 245, 255);
+}
+
+#searchList{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: rgb(187, 245, 255);
+}
+
+.list-group-item{
+    background-color: transparent;
+}
