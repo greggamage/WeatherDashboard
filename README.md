@@ -1,5 +1,8 @@
 https://greggamage.github.io/WeatherDashboard/
 
+![6ef544d4ce64450d7b349c792068b0c2](https://user-images.githubusercontent.com/105221654/171273547-744e2aef-18db-40c8-a9d1-f28b07d35c0f.png)
+
+
 ## Server-Side APIs Challenge: Weather Dashboard
 
 Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
